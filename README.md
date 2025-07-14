@@ -5,7 +5,7 @@ A Progressive Web App (PWA) built with **React.js**, **Vite**, **Tailwind CSS**,
 ---
 
 ## 🔗 Live Demo
-https://github.com/mjunghare24/synergim-marketplace
+https://synergim-marketplace-361w.vercel.app/
 
 ## 📱 Features
 
